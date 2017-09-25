@@ -1,0 +1,14 @@
+[17:17:12] [main/INFO]: Logging in with username & password
+[17:17:23] [main/INFO]: Setting user: Gunmetal_Gears
+[17:17:32] [main/INFO]: LWJGL Version: 2.9.4
+[17:17:41] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Negative Field Theory
+[17:17:50] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:17:50] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:17:50] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:17:51] [Thread-5/INFO]: OpenAL initialized.
+[17:17:51] [Sound Library Loader/INFO]: Sound engine started
+[17:18:03] [main/INFO]: Created: 512x512 textures-atlas
+[17:18:08] [main/INFO]: Narrator library for x64 successfully loaded
+[17:18:36] [main/INFO]: Stopping!
+[17:18:36] [main/INFO]: SoundSystem shutting down...
+[17:18:37] [main/WARN]: Author: Paul Lamb, www.paulscode.com
